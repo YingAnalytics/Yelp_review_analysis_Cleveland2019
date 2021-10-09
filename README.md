@@ -1,0 +1,2 @@
+# Yelp_review_analysis_Cleveland2019
+Yelp is a leading application in sharing restaurant information. It provides open data of a subset of the busineses listed on yelp, the corresponding ratings and reviews as well as user data in personal,educational and academic purposes.Through performing NLP analysis on the text reviews of the Cleveland resturants in the year of 2019, my goal is to provide actional insights for resturants to improve their overall customer satisfactions and their yelp review ratings. 
