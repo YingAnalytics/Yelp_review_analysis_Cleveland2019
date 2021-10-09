@@ -8,4 +8,7 @@ This notebook focuses on the NLP/text analysis of yelp texual reviews, and it co
 * Part3: Topic Modeling<br>
 * Part4: Sentiment Analysis <br>
 * Part5: Key words Analysis<br>
-* Part6: Business Insights
+* Part6: Business Insights<br><br>
+
+
+For better visualization, please feel free to review this notebook on Google Colab: https://drive.google.com/file/d/1MRGVXz5D0EXzxQGxnc4jIBlkYq1Mxeds/view?usp=sharing
